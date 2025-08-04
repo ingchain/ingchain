@@ -1,5 +1,5 @@
 # ![emote wolf chain](https://raw.githubusercontent.com/ingchain/ingchain/Boss/emote_wolf_chain.png) Hola, mi nombre es Edwin Cadena 👋
-### 🔹 Junior Python dev 🐍 | Computer Science student 🎓 | Tech enthusiast & wolf lover 🐺
+### 🔹 Junior Python dev 🐍 | University student 🎓 | Tech enthusiast & wolf lover 🐺
 
 💻 Python programmer (junior) 🐍 | CS undergrad 🎓 | Exploring backend & automation 🚀 | Focused like a wolf 🐺
 
